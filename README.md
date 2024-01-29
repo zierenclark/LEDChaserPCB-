@@ -23,7 +23,7 @@ Started by initially building the circuit on the breadboard to ensure all compon
 <img width="500" alt="image" src="https://github.com/zierenclark/LEDChaserPCB-/assets/155485134/33ba5d09-85c2-4c11-8ab1-14cdb58a3cc9">
 <img width="500" alt="image" src="https://github.com/zierenclark/LEDChaserPCB-/assets/155485134/0713545d-f0be-4e3b-b8f6-b2ffd08ee32b">
 
-See LEDChaserBreadboard.Gif in the repository to see circuit working properly.
+See LEDChaserBreadboard.gif in the repository to see circuit working properly.
 
 Once I confirmed the schematic was working properly, I began building it in Eagle PCB software. Going from schematic to PCB was particularly difficult since the stages of the 4017IC were not in order by the next stage due to the necessary design of the integrated circuit.
 
