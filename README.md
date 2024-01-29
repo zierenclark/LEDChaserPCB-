@@ -2,6 +2,7 @@
 Goal: Build LED chaser circuit PCB from online LEDchaser Schamtic on circuitdigest.com
 
 Schematic from: https://circuitdigest.com/electronic-circuits/led-chaser-circuit
+
 The circuit is designed to Power 10 LEDs in an on-and-off sequence similar to decorative lights. This circuit uses a 555 IC timer to generate a high and low signal at different frequencies according to the resistance of a potentiometer. This signal is then inputted into a 4017IC that changes in stage with each cycle of the 555 IC timer. This circuit uses another LED just to determine the frequency of the cycles that the 555 IC is outputting. 
 
 <img width="488" alt="image" src="https://github.com/zierenclark/LEDChaserPCB-/assets/155485134/ed24e489-bbc7-46ae-b605-7891f44ab7d8">
