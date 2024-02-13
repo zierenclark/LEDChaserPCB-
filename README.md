@@ -31,6 +31,7 @@ Once I confirmed the schematic was working properly, I began building it in Eagl
 <img width="500" alt="image" src="https://github.com/zierenclark/LEDChaserPCB-/assets/155485134/87195a9a-81f9-4231-80df-6eb880cdf387">
 <img width="681" alt="image" src="https://github.com/zierenclark/LEDChaserPCB-/assets/155485134/46137701-32f0-4807-9220-04ba9692d602">
 
+
 After printing the PCB on the LPKF S104 CNC mill, I assembled and soldered the circuit using the components from the breadboard prototype. 
 
 
@@ -38,6 +39,9 @@ After printing the PCB on the LPKF S104 CNC mill, I assembled and soldered the c
 <img width="500" alt="image" src="https://github.com/zierenclark/LEDChaserPCB-/assets/155485134/8d38cb68-825f-4009-b934-e4cae80c6951">
 
 Initially, the circuit was not receiving power due to a faulty positive wire I had soldered originally. After replacing the wire, the circuit nearly worked correctly except for an LED not flashing during the fifth stage which was due to a faulty connection during soldering. 
+
+<img width="500" alt="image" src="https://github.com/zierenclark/LEDChaserPCB-/assets/155485134/cfd504cf-8b16-42b7-8939-43ca11ad3858">
+
 
 
 
